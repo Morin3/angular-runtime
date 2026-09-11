@@ -18,7 +18,7 @@
     "@angular/forms": "^18.0.1",
     "@angular/platform-browser": "^18.0.1",
     "@angular/platform-browser-dynamic": "^18.0.1",
-    "@angular/platform-server": "^18.0.1",
+    "@angular/platform-server": "^20.3.30",
     "@angular/router": "^18.0.1",
     "@angular/ssr": "^18.0.2",
     "@netlify/angular-runtime": "file:..",
